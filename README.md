@@ -1,4 +1,4 @@
-# organic-food-products
+# Organic Food Products
 
 #### Overview
 This Power BI dashboard provides comprehensive insights into the marketing performance of a Fast-Moving Consumer Goods (FMCG) company. The focus is on understanding customer behavior, campaign effectiveness, channel preferences, and engagement trends—enabling smarter, data-driven marketing strategies.
