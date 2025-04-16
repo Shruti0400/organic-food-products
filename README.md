@@ -26,71 +26,72 @@ This dataset enables both trend and segmentation analysis to support strategic d
 #### Objectives
 The dashboard was designed to:
 
-Analyze customer preferences based on demographic profiles and purchasing patterns
+- Analyze customer preferences based on demographic profiles and purchasing patterns
 
-Measure the effectiveness of marketing campaigns across platforms
+- Measure the effectiveness of marketing campaigns across platforms
 
-Identify top-performing sales and engagement channels
+- Identify top-performing sales and engagement channels
 
-Track digital engagement to improve online strategies
+- Track digital engagement to improve online strategies
 
-Optimize segmentation and personalization of campaigns
+- Optimize segmentation and personalization of campaigns
 
-Drive higher ROI through continuous data monitoring
+- Drive higher ROI through continuous data monitoring
 
 #### Business Insights & Strategies
-- Customer Segmentation
-Customers with children—especially those with one child—are more responsive to Campaigns 3 and 4.
 
-These segments show preference for Catalog and Web channels.
+###### Customer Segmentation
+- Customers with children—especially those with one child—are more responsive to Campaigns 3 and 4.
 
-- Campaign Performance
-Campaigns such as Deals, Featured Products, and Customer Stories received the highest Likes and engagement on social platforms.
+- These segments show preference for Catalog and Web channels.
 
-- Channel Effectiveness
-Store and Catalog channels lead in purchases.
+###### Campaign Performance
+- Campaigns such as Deals, Featured Products, and Customer Stories received the highest Likes and engagement on social platforms.
 
-The Web channel is underutilized but has strong potential among educated and higher-income users.
+###### Channel Effectiveness
+- Store and Catalog channels lead in purchases.
 
-- Seasonal Trends
-Engagement peaks during Q4 (November–December)—suggesting the best timing for impactful campaigns.
+- The Web channel is underutilized but has strong potential among educated and higher-income users.
 
-- Strategic Focus Areas
-Personalize messaging using demographic and behavioral segmentation
+###### Seasonal Trends
+- Engagement peaks during Q4 (November–December)—suggesting the best timing for impactful campaigns.
 
-Increase marketing investment in high-performing channels and formats
+###### Strategic Focus Areas
+- Personalize messaging using demographic and behavioral segmentation
 
-Synchronize major campaigns with Q4 engagement trends
+- Increase marketing investment in high-performing channels and formats
 
-Monitor top-performing initiatives to replicate success factors
+- Synchronize major campaigns with Q4 engagement trends
+
+- Monitor top-performing initiatives to replicate success factors
 
 #### Tools & Technologies
-Microsoft Power BI – Core dashboarding and visualization tool
+- Microsoft Power BI – Core dashboarding and visualization tool
 
-Power Query Editor – Data cleansing and transformation
+- Power Query Editor – Data cleansing and transformation
 
-DAX (Data Analysis Expressions) – Custom KPIs and measures
+- DAX (Data Analysis Expressions) – Custom KPIs and measures
 
-Excel/CSV – Source data inputs
+- Excel/CSV – Source data inputs
 
-PDF Reports – Business insights and KPI framework documentation
+- PDF Reports – Business insights and KPI framework documentation
 
 #### Key Findings
-Campaigns like Deals and Customer Stories have the highest engagement levels.
+- Campaigns like Deals and Customer Stories have the highest engagement levels.
 
-Families with children show a strong affinity for Campaign 3 and Campaign 4.
+- Families with children show a strong affinity for Campaign 3 and Campaign 4.
 
-Store and Catalog channels dominate revenue, but Web is an emerging opportunity.
+- Store and Catalog channels dominate revenue, but Web is an emerging opportunity.
 
-Digital engagement is highest during Q4—making it a key window for campaign launches.
+- Digital engagement is highest during Q4—making it a key window for campaign launches.
 
 #### Conclusion
 The FMCG Marketing Campaign Power BI Dashboard transforms complex marketing data into clear, strategic insights. It equips stakeholders to:
 
-Enhance customer targeting through segmentation
+- Enhance customer targeting through segmentation
 
-Improve campaign design and timing
+- Improve campaign design and timing
 
-Maximize return on marketing investments
+- Maximize return on marketing investments
 
-Capitalize on engagement peaks for better conversion
+- Capitalize on engagement peaks for better conversion
